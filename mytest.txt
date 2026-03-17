@@ -1,1 +1,2 @@
-Hi this is a test file 
+Hi this is a test file  for the java board game project. 
+git hb action prject
